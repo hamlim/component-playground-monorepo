@@ -3,7 +3,9 @@
 let CHILDREN = "--CHILDREN--";
 
 let ROLES = {
-  presentation: "div"
+  presentation: "div",
+  interactive: "button",
+  media: "img"
 };
 
 export let NODE_TYPES = {

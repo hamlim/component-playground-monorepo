@@ -1,1 +1,1 @@
-export { NODE_TYPES } from "./NodeTypes.js";
+export { NODE_TYPES, getHostNodeForRoleAndDisplay } from "./NodeTypes.js";
