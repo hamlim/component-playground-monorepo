@@ -1,0 +1,5 @@
+{
+  "name": "@matthamlin/node-core",
+  "version": "0.0.1",
+  "source": "src/index.js"
+}

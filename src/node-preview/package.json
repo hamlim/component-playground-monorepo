@@ -1,0 +1,8 @@
+{
+  "name": "@matthamlin/node-preview",
+  "version": "0.0.1",
+  "source": "src/index.js",
+  "peerDependencies": {
+    "@matthamlin/node-core": "0.0.1"
+  }
+}

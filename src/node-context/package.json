@@ -1,0 +1,8 @@
+{
+  "name": "@matthamlin/node-context",
+  "version": "0.0.1",
+  "source": "src/index.js",
+  "peerDependencies": {
+    "react": "16.8.6"
+  }
+}
